@@ -3,3 +3,5 @@
 
 #singleton
 #Adapter
+
+#formas simples de integrar o codigo
